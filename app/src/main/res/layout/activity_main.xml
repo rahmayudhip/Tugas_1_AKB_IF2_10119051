@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--Nama                : Rahmayudhi Prakoso
+    NIM                 : 10119051
+    Kelas               : IF2
+    Tanggal Pengerjaan  : tanggal pengerjaan 22 April 2022
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -35,22 +42,7 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop="400dp"
         android:orientation="vertical"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="tanggal pengerjaan 22 April 2022"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="600dp"
-        android:orientation="vertical"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Rahmayudhi Prakoso / IF 2 / NIM 10119051"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="620dp"
-        android:orientation="vertical"/>
+
 
 
 </RelativeLayout>
